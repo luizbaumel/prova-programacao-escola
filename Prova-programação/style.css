@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px 0;
+}
+
+h1 {
+    text-align: center;
+
+
+}
+
+img {
+    width: 350px;
+
+
+}
+
+li {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 25px;
+}
